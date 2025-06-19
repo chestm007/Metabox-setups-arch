@@ -1,0 +1,1 @@
+sudo pacman -S nvidia-open nvidia-prime nvidia-settings opencl-nvidia

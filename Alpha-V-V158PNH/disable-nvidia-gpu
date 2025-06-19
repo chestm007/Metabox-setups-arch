@@ -1,0 +1,2 @@
+edit /etc/modprobe.d/blacklist-nouveau.conf
+edit /etc/udev/rules.d/00-remove-nvidia.rules
